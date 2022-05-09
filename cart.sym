@@ -1,0 +1,156 @@
+--- Symbol List (sorted by symbol)
+0.CLSN_M0_P1             f266              (R )
+0.CLSN_P0_P1             f25a              (R )
+0.DRAW_P0                f169              (R )
+0.DRAW_P1                f181              (R )
+0.FREE_BYTES             0000                  
+0.GAME_LINE_LOOP         f153              (R )
+0.INSIDE_BOMBER_SPRITE   f177                  
+0.INSIDE_JET_SPRITE      f15f                  
+0.P0_BTN_PRESSED         f225                  
+0.P0_DOWN_PRESSED        f1f1                  
+0.P0_LEFT_PRESSED        f200                  
+0.P0_RIGHT_PRESSED       f213                  
+0.P0_UP_PRESSED          f1e2                  
+0.RESET_BOMBER_POS       f242              (R )
+0.RESPAWN_BOMBER         f276                  
+0.SCORE_DIGIT_LOOP       f0e2              (R )
+0.SET_SCORE_VALUES       f245                  
+1.CLEAR_STACK            f006              (R )
+10.PREPARE_SCORE_LOOP    f2fb              (R )
+2.DRAW_MSL               f159                  
+2.SKIP_MSL_DRAW          f15d              (R )
+7.DIV_15_LOOP            f2bf              (R )
+AUDC0                    0015              (R )
+AUDC1                    0016              (R )
+AUDF0                    0017              (R )
+AUDF1                    0018              (R )
+AUDV0                    0019              (R )
+AUDV1                    001a              (R )
+BOMBER_COLOR             f399              (R )
+BOMBER_COLOR_PTR         0097              (R )
+BOMBER_HEIGHT            0009              (R )
+BOMBER_SPRITE            f37e              (R )
+BOMBER_SPRITE_PTR        0095              (R )
+BOMBER_XPOS              0088              (R )
+BOMBER_YPOS              0089              (R )
+CHECK_BTN                f21f              (R )
+CHECK_COLLISION_M0_P1    f25d              (R )
+CHECK_COLLISION_P0_P1    f24e                  
+CHECK_P0_DOWN            f1ea              (R )
+CHECK_P0_LEFT            f1f9              (R )
+CHECK_P0_RIGHT           f20c              (R )
+CHECK_P0_UP              f1db                  
+COLUBK                   0009              (R )
+COLUP0                   0006              (R )
+COLUP1                   0007              (R )
+COLUPF                   0008              (R )
+CTRLPF                   000a              (R )
+CXBLPF                   0006                  
+CXCLR                    002c              (R )
+CXM0FB                   0004                  
+CXM0P                    0000              (R )
+CXM1FB                   0005                  
+CXM1P                    0001                  
+CXP0FB                   0002                  
+CXP1FB                   0003                  
+CXPPMM                   0007              (R )
+DIGITS                   f31c              (R )
+DIGITS_HEIGHT            0005              (R )
+ENABL                    001f                  
+ENAM0                    001d              (R )
+ENAM1                    001e                  
+END_CLSN_CHECK           f27d              (R )
+END_INPUT_CHECK          f236              (R )
+END_POSITION_UPDATE      f24e              (R )
+GAME_OVER                f2d0              (R )
+GAME_VISIBLE_LINES       f139                  
+GENERATE_HIT_SOUND       f28f              (R )
+GENERATE_JET_SOUND       f29c              (R )
+GENERATE_MISSILE_SOUND   f282              (R )
+GET_DIGIT_OFFSET         f2f9              (R )
+GET_RND_BOMBER_POS       f2db              (R )
+GRP0                     001b              (R )
+GRP1                     001c              (R )
+HMBL                     0024                  
+HMCLR                    002b                  
+HMM0                     0022                  
+HMM1                     0023                  
+HMOVE                    002a              (R )
+HMP0                     0020              (R )
+HMP1                     0021                  
+INPT0                    0008                  
+INPT1                    0009                  
+INPT2                    000a                  
+INPT3                    000b                  
+INPT4                    000c              (R )
+INPT5                    000d                  
+INTIM                    0284                  
+JET_ANIM_OFFSET          0099              (R )
+JET_COLOR                f387              (R )
+JET_COLOR_PTR            0093              (R )
+JET_COLOR_TURN           f390                  
+JET_HEIGHT               0009              (R )
+JET_SPRITE               f36c              (R )
+JET_SPRITE_PTR           0091              (R )
+JET_SPRITE_TURN          f375                  
+JET_XPOS                 0080              (R )
+JET_XPOS_MAX             0083              (R )
+JET_XPOS_MIN             0082              (R )
+JET_YPOS                 0081              (R )
+JET_YPOS_MAX             0085              (R )
+JET_YPOS_MIN             0084              (R )
+MISSILE_XPOS             0086              (R )
+MISSILE_YPOS             0087              (R )
+NUSIZ0                   0004                  
+NUSIZ1                   0005              (R )
+ONES_DIGIT_OFFSET        008d              (R )
+PF0                      000d              (R )
+PF1                      000e              (R )
+PF2                      000f              (R )
+RANDOM                   009a              (R )
+REFP0                    000b                  
+REFP1                    000c                  
+RESBL                    0014                  
+RESET                    f000              (R )
+RESM0                    0012                  
+RESM1                    0013                  
+RESMP0                   0028                  
+RESMP1                   0029                  
+RESP0                    0010              (R )
+RESP1                    0011                  
+RIVER_COLOR              009e              (R )
+RSYNC                    0003                  
+SCORE                    008a              (R )
+SCORE_SPRITE             009b              (R )
+SET_NO_CLSN_COLORS       f2b3              (R )
+SET_OBJECT_XPOS          f2bc              (R )
+SLEEP_12_CYCLES          f31b              (R )
+START_FRAME              f055              (R )
+SWACNT                   0281                  
+SWBCNT                   0283                  
+SWCHA                    0280              (R )
+SWCHB                    0282                  
+T1024T                   0297                  
+TEMP                     008c              (R )
+TENS_DIGIT_OFFSET        008f              (R )
+TERRAIN_COLOR            009d              (R )
+TIA_BASE_ADDRESS         0000              (R )
+TIA_BASE_READ_ADDRESS    0000              (R )
+TIA_BASE_WRITE_ADDRESS   0000              (R )
+TIM1T                    0294                  
+TIM64T                   0296                  
+TIM8T                    0295                  
+TIMER                    008b              (R )
+TIMER_SPRITE             009c              (R )
+TIMINT                   0285                  
+UPDATE_BOMBER_POSITION   f236                  
+VBLANK                   0001              (R )
+VDELBL                   0027                  
+VDELP0                   0025                  
+VDELP1                   0026                  
+VERSION_MACRO            006a                  
+VERSION_VCS              0069                  
+VSYNC                    0000              (R )
+WSYNC                    0002              (R )
+--- End of Symbol List.
